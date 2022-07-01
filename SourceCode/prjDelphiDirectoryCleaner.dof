@@ -90,7 +90,7 @@ MaxStackSize=1048576
 ImageBase=4194304
 ExeDescription=
 [Directories]
-OutputDir=D:\ButunKodlarim\Delphi\Delphi 7\_Uygulamalar
+OutputDir=
 UnitOutputDir=
 PackageDLLOutputDir=
 PackageDCPOutputDir=
@@ -138,5 +138,6 @@ Comments=
 Count=1
 Item0=WinTypes=Windows;WinProcs=Windows;DbiTypes=BDE;DbiProcs=BDE;DbiErrs=BDE;
 [HistoryLists\hlOutputDirectorry]
-Count=1
-Item0=D:\ButunKodlarim\Delphi\Delphi 7\_Uygulamalar
+Count=2
+Item0=C:\Users\serdar\Documents\Embarcadero\Studio\Projects\Exeler
+Item1=D:\ButunKodlarim\Delphi\Delphi 7\_Uygulamalar
